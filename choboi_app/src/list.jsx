@@ -1,4 +1,5 @@
-function App() {
+
+function List () {
     return (
       <div>
         <h1>Animals: </h1>
@@ -12,4 +13,4 @@ function App() {
     );
   }
 
-  export default App;
+  export default List;
